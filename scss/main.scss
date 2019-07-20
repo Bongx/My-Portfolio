@@ -75,7 +75,7 @@
   transform: translate3d(0, 0, 0);
 }
 .menu-branding .portrait {
-  background: url(/dist/img/20180929_110945.jpg);
+  background: url(../img/20180929_110945.jpg);
   margin: auto;
   border-radius: 100%;
   border: #ff9f1c 3px solid;
@@ -138,7 +138,7 @@ body {
   line-height: 1.5;
 }
 body#bg-img {
-  background: url(/dist/img/developer-background-607.jpg);
+  background: url(../img/20180929_110945.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -357,7 +357,7 @@ main#home h1 {
     transform: translate3d(0, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("/dist/img/bongx.png");
+    background: url(../img/bongx.png);
     width: 150px;
     height: 150px;
   }
