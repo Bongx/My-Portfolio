@@ -272,7 +272,7 @@ body {
   line-height: 1.5; }
 
 body#bg-img {
-  background: url(/dist/img/developer-background-607.jpg);
+  background: url(https://github.com/Bongx/My-Portfolio/blob/master/dist/img/developer-background-607.jpg);
   background-attachment: fixed;
   background-size: cover; }
 
