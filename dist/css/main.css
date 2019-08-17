@@ -58,7 +58,7 @@
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
-      background: url(/dist/img/20180929_110945.jpg);
+      background: url("https://github.com/Bongx/My-Portfolio/blob/master/dist/img/developer-background-607.jpg");
       margin: auto;
       border-radius: 100%;
       border: #ff9f1c 3px solid;
